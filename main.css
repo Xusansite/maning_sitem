@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 15px;
+	background-color: grey;
+}
+nav ul li {
+	padding: 12px;
+	list-style: none;
+	font-size: 20px;
+}
+.container{
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+section{
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	background-image: url(https://restylingcar.com/wp-content/uploads/2021/01/b6f22145c5a28e937721b4e69a3308a712755620713_1e050be114_k.jpg);
+}
+h1{
+	color: white;
+	text-align: center;
+}
+p{
+	text-align: center;
+	color: white;
+}
+footer h4{
+	text-align: center;
+	background-color: grey;
+	font-size: 25px;
+}
